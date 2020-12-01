@@ -81,6 +81,7 @@
 
 #### 流计算
 
++ Rule Engine(Edge + Platform)
 + Spark
 + Flink
 + Confluent(社区版，Kafka)
@@ -282,9 +283,13 @@ attributes:
 + X.509
 + WSS
 
-##七、应用
+## 七、应用
 
-#### 基于Prometheus的告警
+#### 规则引擎
+
+> Flink, ThingsBoard,kuiper
+
+#### 基于Prometheus的告警设计告警组件
 
 **AlterManager架构**
 
